@@ -2,7 +2,7 @@
 
 #### This is a program that collects userinput data and outputs a simple game.
 
-#### Here are some of the specs of the program
+Here are some of the specs of the program
 +A program that counts from 1 to the inputted figure.
 +A program that tests the divisibility of the input data by 15
 +A program that tests the divisibility of the input data by 5 
