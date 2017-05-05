@@ -1,22 +1,14 @@
-## Basic Bootstrap Template
+# PING PONG GAME
 
-A blank template to get started on a Bootstrap styled webpage.
+#### This is a program that collects userinput data and outputs a simple game.
 
-Contents:
-  + Javascript
-  + [jQuery 3.2.1](https://jquery.com/)
-  + [Bootstrap 3.3.7](http://getbootstrap.com/)
+#### Here are some of the specs of the program
+..* A program that counts from 1 to the inputted figure.
+..* A program that tests the divisibility of the input data by 15
+..* A program that tests the divisibility of the input data by 5 
+..* A program that tests the divisibility of the input data by 3
+..* A program that removes the previous data entries
+..* A program that changes the string to a number
+..* A program that displays the output
 
-Files for editing:
-  + **JAVASCRIPT** - `scripts.js`
-  + **CSS**        - `styles.css`
-
-All mentioned files have already been linked in `index.html`.
-
-**SET UP**
-  1. After initializing your project folder with `git init` pull this repo with `git pull https://github.com/kareithibike/BlankBoot`
-  2. Check to see if all stylesheets and scripts are linked correctly
-  3. This repository has one commit named "Initial commit"
-  ---
-
-  ##### Michael Kareithi
+### Project done by Isaac Nderi Onyango
