@@ -1,1 +1,10 @@
-/* Do your own styling here */
+.hdr {
+  text-align: center;
+  font-size: 30px;
+}
+
+
+.sidebar {
+  float: left;
+  width: 150px;
+}
