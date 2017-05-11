@@ -4,13 +4,13 @@
 
 Here are some of the specs of the program
 
-A program that counts from 1 to the inputted figure.
+1. A program that counts from 1 to the inputted figure.
 
-A program that tests the divisibility of the input data by 15
-
-A program that tests the divisibility of the input data by 5 
+2.  program that tests the divisibility of the input data by 15
 
 A program that tests the divisibility of the input data by 5 
+
+A program that tests the divisibility of the input data by 3 
 
 A program that removes the previous data entries
 
