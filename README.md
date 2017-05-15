@@ -19,3 +19,5 @@ Here are some of the specs of the program
 7. A program that displays the output.
 
 ### Project done by Isaac Nderi Onyango
+
+###### Copyright ONI corp
